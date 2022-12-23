@@ -1,2 +1,2 @@
-# NAME:
-# STUDENT ID:
+# NAME:Thiranat kakanmee
+# STUDENT ID:650610762
